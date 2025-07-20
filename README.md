@@ -1,4 +1,4 @@
-# Module-3
+# Assignment 2
  
 #Task 1: 
 Check if a Number is Even or Odd
